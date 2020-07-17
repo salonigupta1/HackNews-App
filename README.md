@@ -18,6 +18,9 @@
 - SQL
 - XML
 
+## Cons
+- You need to have very good internet connection, otherwise your phone will display blank screen.That is why, I am planning to add pre loader. 
+
 ## 💥 Local Access in Android phones
 - Open the link given below in your android set
 ```sh
