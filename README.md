@@ -21,7 +21,7 @@
 ## 💥 Local Access in Android phones
 - Open the link given below in your android set
 ```sh
-https://drive.google.com/file/d/13LsRtGtAPtASQa_8Jk7uI4Qols2mJUS3/view?usp=sharing
+https://drive.google.com/file/d/1jMtK2RHy0Mck9XIJgRmRhEY9YofMCByn/view?usp=sharing
 ```
 - Allow the device to download app from external source
 ```sh
